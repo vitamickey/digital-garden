@@ -89,6 +89,15 @@ here is something else that isn't nice
 - here's me trying more stuff
   - and another indent
 
+Maybe this is just markdown being markdown.
+
+- Here is another list below it with a space
+  - with two
+  - subpoints
+- and back out
+- another parent point
+  - and another indent
+
 <!-- 1. let's
     1. fix
         1. this
