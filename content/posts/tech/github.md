@@ -32,7 +32,7 @@ date: 2022-05-23T15:34:05+10:00
 title: "GitHub"
 description: "And also git. Version control, and stuff..."
 tags: ["coding", "technology"]
-lastmod: 2022-07-28T12:36:05+10:00
+lastmod: 2022-10-03
 ---
 
 I am an absolute GitHub noob, but like, I'm trying my best.
@@ -51,6 +51,7 @@ I used this when my website did weird stuff. One day I will stop nuking my repos
 
 Merge conflicts
 <https://stackoverflow.com/questions/64395814/how-to-resolve-branch-conflicts-in-vscode-github-pull-requests-and-issues-extens>
+<https://www.freecodecamp.org/news/resolve-merge-conflicts-in-git-a-practical-guide/>
 
 digital-garden init on new laptop, cloned and submodule stuff with first method <https://www.w3docs.com/snippets/git/how-to-clone-including-submodules.html>
 

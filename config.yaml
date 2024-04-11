@@ -1,5 +1,5 @@
-baseURL: 'http://michaelacheong.com/'
-title: Museum of Michaela
+baseURL: 'https://michaelacheong.com/'
+title: Mementos from Michaela
 languageCode: en-au
 paginate: 10
 theme: hugo-PaperMod
@@ -22,7 +22,7 @@ permalinks:
 
 params:
   env: production
-  title: Momentos from Michaela
+  title: Mementos from Michaela
   description: A digital garden.
   keywords:
     - Digital Garden
@@ -59,7 +59,7 @@ params:
     iconHeight: 50
   profileMode:
     enabled: true
-    title: Momentos from Michaela
+    title: Mementos from Michaela
     subtitle: 'I follow Jesus. Read [Welcome to my digital garden](/welcome/) first.'
     imageUrl: img/meta/lol.jpg
     imageWidth: 120
@@ -71,14 +71,16 @@ params:
       - name: Tags
         url: tags/
   socialIcons:
-    - name: github
+    - name: "github"
       url: 'https://github.com/vitamickey'
-    - name: instagram
+    - name: "instagram"
       url: 'https://www.instagram.com/michaelacheong/'
-    - name: spotify
+    - name: "spotify"
       url: 'https://open.spotify.com/user/mrshmllow_micky?si=70da848a98c84a3e'
-    - name: pinterest
+    - name: "pinterest"
       url: 'https://pin.it/4IU6Skz'
+    - name: "letterboxd"
+      url: 'https://letterboxd.com/mickey_c100/'
   analytics:
     google:
       SiteVerificationTag: XYZabc
@@ -143,6 +145,10 @@ menu:
       name: search
       url: search/
       weight: 50
+    - identifier: garden
+      name: garden
+      url: "https://garden.michaelacheong.com/"
+      weight: 60
 
 markup:
   goldmark:

@@ -35,8 +35,8 @@ description: "Only the ones I have notes for so far."
 # bookofbible: [""]
 # booksofbible_weight: 46
 layout: "booksofbible"
-lastmod: 2022-07-30T11:25:09+10:00
+lastmod: 2022-10-03
 # math: true
 ---
 
-Currently reading: Micah
+Currently reading: Acts in Connect Group, Project 11 devotionals, Mark in Youth.

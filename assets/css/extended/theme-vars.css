@@ -76,7 +76,7 @@
   --secondary: var(--color-l-blue-900);
   --tertiary: var(--color-l-gray-20);
   --content: var(--color-l-blacker);
-  --hljs-bg: var(--color-l-black);
+  --hljs-bg: var(--color-l-gray-20);
   --code-bg: var(--color-l-gray-20);
   --border: var(--color-l-gray-30);
   --link-background-color: var(--color-l-white); 
